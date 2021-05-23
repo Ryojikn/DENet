@@ -30,7 +30,7 @@ Differently from state of the art methodologies, DENet takes as input the lossle
 
 ## Requirements
 
-- tensorflow-gpu==1.13.1
+- tensorflow-gpu==1.13.2
 - keras==2.2.4
 - numpy==1.19.1
 
